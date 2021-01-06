@@ -1,4 +1,5 @@
-QT += quick virtualkeyboard widgets
+#QT += quick virtualkeyboard widgets
+QT += widgets virtualkeyboard
 
 CONFIG += c++11
 
