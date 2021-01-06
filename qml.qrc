@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>temperature.qml</file>
+        <file>text.qml</file>
+        <file>MyList.qml</file>
+        <file>resources/c1.png</file>
+        <file>resources/c2.png</file>
+        <file>resources/c3.png</file>
+        <file>resources/c4.png</file>
+        <file>resources/c5.png</file>
+        <file>resources/c6.png</file>
+        <file>resources/c7.png</file>
+        <file>resources/c8.png</file>
+        <file>resources/c9.png</file>
+        <file>resources/c10.png</file>
+        <file>resources/c11.png</file>
+        <file>resources/c12.png</file>
+    </qresource>
+</RCC>
