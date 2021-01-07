@@ -22,8 +22,8 @@ ApplicationWindow {
             var tab1 = tabs.addTab("Temperature", Qt.createComponent("temperature.qml"));
             tab1.active = true;
 
-            var tab2 = tabs.addTab("Text Edit", Qt.createComponent("text.qml"));
-            tab2.active = true;
+//            var tab2 = tabs.addTab("Text Edit", Qt.createComponent("text.qml"));
+//            tab2.active = true;
 
             var tab3 = tabs.addTab("List", Qt.createComponent("MyList.qml"));
             tab3.active = true;

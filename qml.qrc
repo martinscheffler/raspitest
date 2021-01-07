@@ -3,7 +3,6 @@
         <file>main.qml</file>
         <file>qtquickcontrols2.conf</file>
         <file>temperature.qml</file>
-        <file>text.qml</file>
         <file>MyList.qml</file>
         <file>resources/c1.png</file>
         <file>resources/c2.png</file>
