@@ -2,7 +2,7 @@ import QtQuick 2.12
 import QtQuick.Controls 2.5
 import QtQuick.Controls 1.4
 import QtQuick.VirtualKeyboard 2.4
-import QtCharts 2.15
+import QtCharts 2.14
 
 ApplicationWindow {
     id: window

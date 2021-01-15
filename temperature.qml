@@ -1,7 +1,7 @@
 import QtQuick 2.12
 import QtQuick.Controls 2.5
 import QtQuick.Controls 1.4
-import QtCharts 2.15
+import QtCharts 2.14
 
 Rectangle {
     id: rect
